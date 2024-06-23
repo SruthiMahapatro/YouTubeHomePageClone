@@ -1,0 +1,31 @@
+h1
+{ 
+color: orange;
+background-color: aqua;
+font-size: 20px;
+text-decoration: underline;
+}
+
+
+p{
+color:slategray;
+text-align: center;
+line-height: 30px;
+letter-spacing: 30px;
+column-count: 2;
+column-gap: 60px;
+}
+ul{
+    /*border: 40px solid crimson;*/
+    border-bottom: dotted 4px rgb(38, 26, 71);
+    border-left: dashed 6px rgb(58, 90, 58);
+}
+li{
+    list-style-type: disc;
+    text-shadow: 2px 2px lightcoral;
+}
+div{
+    border: 20px solid chartreuse;
+    margin: 30px grey;
+    padding:30px blue;
+}
